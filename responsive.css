@@ -1,0 +1,37 @@
+@media all and (max-width: 1200px) and (min-width: 100px) {
+
+    @media all and (max-width: 800px) and (min-width: 100px) {
+       div#responsive-menu-btn1 {
+            display:block;
+        }
+      
+        .responsive-dashboard-main.active {
+            left: 0;
+        }
+        section.dashboard1 {
+            display: block;
+        }
+    
+        
+        .dashboard-main {
+            display: none;
+        }
+        
+        .logo-db {
+            text-align: center;
+           
+        }
+        section.dashborad {
+            display: none;
+        }
+        section.dashboard-sidebar {
+            padding-top: 0px;
+        }
+        .responsive-logo {display: flex;justify-content: center;}
+        
+    }
+    
+    
+    @media all and (max-width: 500px) and (min-width: 100px) {
+    
+    }
